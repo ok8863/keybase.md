@@ -8,7 +8,7 @@ I hereby claim:
 
 To claim this, I am signing this object:
 
-json
+```json
 {
   "body": {
     "key": {
@@ -42,14 +42,14 @@ json
   "seqno": 19,
   "tag": "signature"
 }
-
+```
 
 with the key [ASDPX3InQgH_nrBWYq5qFwrgUKz3LM8nHlv6blGhxtOUwQo](https://keybase.io/testjeff), yielding the signature:
 
-
+```
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz19yJ0IB/56wVmKuahcK4FCs9yzPJx5b+m5RocbTlMEKp3BheWxvYWTESpcCE8QgwACd/qe4SKwWvLDD6hhBv2W10Xl3IpbAPNdbr/vBrDjEINnsHZNI5s8/Mt0CwEDRU5kV4rjGveN/zWv2nEk9zyjgAgHCo3NpZ8RAdAn3lx8PWssiEngQxEkFtlM3QTHAV4G/2aPIE+dhx2uKrrduWmd3J+C7GNXyl7bKR+vTgpra8lqHR2Jpf3ctCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGw9Sn1EiotHgFeQ8mJZw9sS8YK+K/OSL0cK+WUpMrVNo3RhZ80CAqd2ZXJzaW9uAQ==
 
-
+```
 
 And finally, I am proving ownership of the github account by posting this as a gist.
 
@@ -60,3 +60,8 @@ https://keybase.io/testjeff
 ### From the command line:
 
 Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id testjeff
+```
