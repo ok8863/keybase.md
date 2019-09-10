@@ -19,13 +19,13 @@ json
       "username": "testjeff"
     },
     "merkle_root": {
-      "ctime": 1568091721,
-      "hash": "63d63529444363a10727134398dc819918f8dc8d930ae4b53f8b0e423a4ce03252a517b3b2b6c07dbde4b467ec7f1698ef741d88bfc162eba5caf000e27f3c66",
-      "hash_meta": "ec55716d6c43389286161316de23b36aba02dda61d531ad4c14d4bbdd29b6dfa",
-      "seqno": 6316176
+      "ctime": 1568093900,
+      "hash": "4b81f975c2cf626b532e24d0d74a5ada22730dbed599297fdfc2b3c897aed553c006c71f68ed1f82808560a85db3d8547e807a831537b92ce8dcaa34571fe390",
+      "hash_meta": "6d21f79ae241e6b6e60e25be51863163c57278a1d17116ffb0c3690ee9319235",
+      "seqno": 6321012
     },
     "service": {
-      "entropy": "Z6jfURX5WwIEGToOfwuJa21l",
+      "entropy": "fHJWAyRFWC0gKWw6nJtw1hMQ",
       "name": "github",
       "username": "ok8863"
     },
@@ -36,10 +36,10 @@ json
     "name": "keybase.io go client",
     "version": "4.4.0"
   },
-  "ctime": 1568091731,
+  "ctime": 1568093906,
   "expire_in": 504576000,
-  "prev": "529fa1e2d78c0b6973e1108084494590e8bd51d43f937028bade300c35a96697",
-  "seqno": 15,
+  "prev": "c0009dfea7b848ac16bcb0c3ea1841bf65b5d179772296c03cd75baffbc1ac38",
+  "seqno": 19,
   "tag": "signature"
 }
 
@@ -47,7 +47,7 @@ json
 with the key [ASDPX3InQgH_nrBWYq5qFwrgUKz3LM8nHlv6blGhxtOUwQo](https://keybase.io/testjeff), yielding the signature:
 
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz19yJ0IB/56wVmKuahcK4FCs9yzPJx5b+m5RocbTlMEKp3BheWxvYWTESpcCD8QgUp+h4teMC2lz4RCAhElFkOi9UdQ/k3Aout4wDDWpZpfEIKobImX66QyqtbfnKD8Ml91b0A03nNpCPeAdlO4K273mAgHCo3NpZ8RAE7esN7wfMuYqtOULqPVa1eUXaou6R9xfVvh7hjArx2ar/X+ffxHfJS1jbEk1tAVSGXevnGSQ/8+R48ENKyxnBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIn2fCahNjQyBO3KssFKT4ino7ioUlvFhlJh2Excp3A0o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz19yJ0IB/56wVmKuahcK4FCs9yzPJx5b+m5RocbTlMEKp3BheWxvYWTESpcCE8QgwACd/qe4SKwWvLDD6hhBv2W10Xl3IpbAPNdbr/vBrDjEINnsHZNI5s8/Mt0CwEDRU5kV4rjGveN/zWv2nEk9zyjgAgHCo3NpZ8RAdAn3lx8PWssiEngQxEkFtlM3QTHAV4G/2aPIE+dhx2uKrrduWmd3J+C7GNXyl7bKR+vTgpra8lqHR2Jpf3ctCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGw9Sn1EiotHgFeQ8mJZw9sS8YK+K/OSL0cK+WUpMrVNo3RhZ80CAqd2ZXJzaW9uAQ==
 
 
 
